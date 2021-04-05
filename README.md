@@ -1,5 +1,3 @@
-# water-qa
-
 ## Project setup
 ```
 npm install
